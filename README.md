@@ -11,4 +11,4 @@ JavaScript
 
 # Live View
 
-[LiveView](https://defeinium.github.io/quote-generator/ "Light Dark Mode")
+[LiveView](https://defeinium.github.io/Light-Dark-Mode/ "Light Dark Mode")
